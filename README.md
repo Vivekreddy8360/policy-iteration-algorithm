@@ -36,6 +36,26 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
+## Adversial Policy
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/7fc76683-03eb-42d1-a648-19ad8711705d)
+
+## Goal percentage of adversarial policy :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/cf577444-3984-4d04-b791-d9d8ad126bfc)
+## Adversarial policy state-value function : 
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/eb496b0b-d88e-4a4b-a92e-35d2cbaf0b68)
+## Policy after improvement :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/e848d032-d43d-4e1f-8718-509001a61800)
+## Goal percentage of improved policy :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/bae8ef25-e7d9-49cd-a8ba-cd71e7621386)
+## Improved policy state-value function :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/9673ae4b-3245-4ab3-83cf-49f1014a47de)
+## Comparing the initial and the improved policy :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/af8e5d07-fab5-4784-b0b1-740ea656287c)
+
+
+
+
+
 
 
 

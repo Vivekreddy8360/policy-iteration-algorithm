@@ -51,13 +51,12 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/9673ae4b-3245-4ab3-83cf-49f1014a47de)
 ## Comparing the initial and the improved policy :
 ![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/af8e5d07-fab5-4784-b0b1-740ea656287c)
-
-
-
-
-
-
-
+## Optimal policy (PI) :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/27654183-42a5-4149-972e-527d12a09dc5)
+## Goal percentage of optimal policy :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/99833d4d-a064-497b-872e-02bd49028f2d)
+## Optimal policy state-value function :
+![image](https://github.com/Vivekreddy8360/policy-iteration-algorithm/assets/94525701/048b1f62-35b3-4eec-b2b0-bc7687b3333d)
 
 ## RESULT:
-
+Thus, a Python program is developed to find the optimal policy for the given MDP using the policy iteration algorithm.
